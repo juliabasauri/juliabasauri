@@ -21,4 +21,4 @@ We open up to an array of coins spread throughout the screen. You have the optio
 * Earliest date
 * Latest date
 You also have the option of sorting the coins into two categories of your choosing. You can drag, move, click on any of the coins to get a deeper description. 
-![categories](https://juliabasauri.github.io/juliabasauri/images/categories.png)
+
