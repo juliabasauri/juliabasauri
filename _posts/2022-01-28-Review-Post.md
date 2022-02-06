@@ -7,7 +7,7 @@ Ideation and research
 ### Project URL:
 https://uclab.fh-potsdam.de/coins/ 
 
-#### Project Summary
+#### *Project Summary* 
 Think about the significance of a coin. They have traveled the world and been touched by a variety of hands. Some have been stuck in between a couch cushion for the last few years while others are showcased on displays. They’ve been traded and lost, saved and spent. Coins have a rich story that needs to be shared. COINS: A journey through a rich culture of collections digital humanities projects sparked this interest in me that I never knew I had. When first entering the website you are greeted with a message. The message invites you to recall your childhood memories of playing with your parents' coins and to join them in their jumbled collection to do it all over again, but this time virtually and with many more coins. This virtual coin collection comes from the Münzkabinett Berlin museum. From there we begin. 
 
 ![first page](juliabasauri.github.io/juliabasauri/images/coins.png)
