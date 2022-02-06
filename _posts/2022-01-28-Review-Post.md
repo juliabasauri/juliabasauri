@@ -12,6 +12,7 @@ Think about the significance of a coin. They have traveled the world and been to
 
 ![first page](https://juliabasauri.github.io/juliabasauri/images/coins.png)
 
+###Organization
 We open up to an array of coins spread throughout the screen. You have the option of sorting the coins from:
 * Country
 * Region
