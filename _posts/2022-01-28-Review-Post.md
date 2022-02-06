@@ -22,17 +22,18 @@ We open up to an array of coins spread throughout the screen. You have the optio
 * Diameter
 * Earliest date
 * Latest date
+
 You also have the option of sorting the coins into two categories of your choosing. You can drag, move, click on any of the coins to get a deeper description. 
 ![categories](https://juliabasauri.github.io/juliabasauri/images/categories.png)
 
 ### Credit: 
 The team was composed of many people: 
 
-Design and development: [Flavio Gortana](https://twitter.com/flaviogortana) 
+**Design and development**: [Flavio Gortana](https://twitter.com/flaviogortana) 
 
-Supervision: [Prof. Dr. Marian Dork](https://twitter.com/nrchtct) 
+**Supervision**: [Prof. Dr. Marian Dork](https://twitter.com/nrchtct) 
 
-Consulting: [Prof. Dr. Bernhard Weisser](https://twitter.com/WeisserBernhard), Dr. Angela Berthold, [Dr. Karsten Dahmen](https://twitter.com/KarstenDahmen) 
+**Consulting**: [Prof. Dr. Bernhard Weisser](https://twitter.com/WeisserBernhard), Dr. Angela Berthold, [Dr. Karsten Dahmen](https://twitter.com/KarstenDahmen) 
 
 ### Design
 It was built with PixiJS, d3 and React. 26,000 coins are displayed on the website out of the 500,000 total coins from the museum.
