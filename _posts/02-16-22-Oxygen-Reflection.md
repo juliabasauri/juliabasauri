@@ -1,7 +1,10 @@
-### Summary 
+# Dracula's Guest
+### Julia Basauri
+
+#### Summary 
 Dracula's Guest is about a curious Englishman who is staying at a Transylvania hotel. He decides to venture out into the night despite being told to stay in the carriage. He gets lost in a cemetery in the middle of a snowstorm, surrounded by darkness and wolves. He is then awoken by soldiers who claim to have been sent by none other than Dracula himself to protect the Englishman.
 
-### My Job
+#### My Job
 The part of the story I'm coding for this assignment is just before the climax. The author is setting the stage for the downfall to occur in this section, as well as building suspense.
 
 (google doc image)
@@ -14,5 +17,5 @@ My thought processes were exactly the same when we first started coding. It was 
 
 (coding image)
 
-### Overview
+#### Overview
 The Oxygen program's basic coding steps were simple to follow and complete. It's reassuring to see a green light indicating that your progress is correct. While each programming site has its own set of goals and objectives, I'm interested in learning more about Oxygen and how it can assist me in my future career. I believe that coding can help you achieve your goals in life, but I'd like to dive deeper into what those advantages are.
