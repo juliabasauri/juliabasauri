@@ -7,7 +7,7 @@ Dracula's Guest is about a curious Englishman who is staying at a Transylvania h
 #### My Job
 The part of the story I'm coding for this assignment is just before the climax. The author is setting the stage for the downfall to occur in this section, as well as building suspense.
 
-(google doc image)
+![image of the tweet](https://juliabasauri.github.io/juliabasauri/images/tweet.jpeg)
 
 I'm only responsible for coding a few things in my section of the text. My father always believed that coding would be the next language for my generation when I was growing up. As a result, he'd have me practice on simple coding programs. Understanding the purpose of coding was simple at first, but actually understanding the different patterns to coding can be difficult.
 
