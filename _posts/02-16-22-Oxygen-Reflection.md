@@ -1,2 +1,2 @@
 
-![tweet](https://juliabasauri.github.io/juliabasauri/)
+![tweet](https://juliabasauri.github.io/juliabasauri/images/tweet.jpeg)
